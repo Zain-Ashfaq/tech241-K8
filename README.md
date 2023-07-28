@@ -5,6 +5,8 @@
 - K8 (Kubernetes) is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications.
 - Originally designed by Google, it is now maintained by the Cloud Native Computing Foundation (CNCF).
 - It allows users to abstract the underlying infrastructure and focus on deploying and managing applications efficiently.
+![k8 diagram](https://github.com/Zain-Ashfaq/tech241-K8/assets/110741952/34cb9bac-a4aa-4647-8948-a7ed3d3139f3)
+
 
 ## Why should we learn and use K8?
 
